@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a_Basics/a_Basics.iml" filepath="$PROJECT_DIR$/a_Basics/a_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/a_cjava_fundamentals.iml" filepath="$PROJECT_DIR$/.idea/a_cjava_fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b_Operators/b_Operators.iml" filepath="$PROJECT_DIR$/b_Operators/b_Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c_Loops/c_Loops.iml" filepath="$PROJECT_DIR$/c_Loops/c_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d_Access_modifiers/d_Access_modifiers.iml" filepath="$PROJECT_DIR$/d_Access_modifiers/d_Access_modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e_Wrapper_classes/e_Wrapper_classes.iml" filepath="$PROJECT_DIR$/e_Wrapper_classes/e_Wrapper_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f_Arrays/f_Arrays.iml" filepath="$PROJECT_DIR$/f_Arrays/f_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g_Static/g_Static.iml" filepath="$PROJECT_DIR$/g_Static/g_Static.iml" />
+    </modules>
+  </component>
+</project>
