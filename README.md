@@ -1,4 +1,4 @@
-# [A - Core Java Fundamentals
+# [A] - Core Java Fundamentals
 Core Java Fundamental Topics
 
 Topics
