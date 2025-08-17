@@ -53,7 +53,16 @@ Important methods of Matcher class:
 7. [a-zA-Z0-9] -> Any alphanumeric character
 8. [^a-zA-Z0-9] -> Any special character
 
+# Predefined character class
 
+1. \s -> Space character
+2. \d -> any digit from 0 to 9
+3. \w -> any word character[a-zA-Z0-9]
+4. . -> any character including special characters.
+
+5. \S -> any character except space character
+6. \D -> any character except digit
+7. \W -> any character except word character(Special character)
 
 
 
