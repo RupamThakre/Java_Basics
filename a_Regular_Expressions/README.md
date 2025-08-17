@@ -42,3 +42,33 @@ Important methods of Matcher class:
 4. String group()
 - Returns the matched pattern
 
+# Character Classes
+
+1. [abc] -> Either 'a' or 'b' or 'c'
+2. [^abc] -> Except 'a', 'b' and 'c'
+3. [a-z] -> Any lowercase alphabet symbol
+4. [A-Z] -> Any uppercase alphabet symbol
+5. [a-zA-Z] -> Any alphabet symbol
+6. [0-9] -> Any digit from 0 to 9
+7. [a-zA-Z0-9] -> Any alphanumeric character
+8. [^a-zA-Z0-9] -> Any special character
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
